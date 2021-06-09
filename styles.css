@@ -1,0 +1,55 @@
+#main-container {
+    margin: 10% auto;
+    width: 30%;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 10px;
+}
+#display {
+    text-align: right;
+    border: 1px solid gray;
+    padding: 20px 10px;
+    font-style: italic;
+}
+
+#buttons-container {
+    margin: 20% auto auto auto;
+    text-align: center;
+}
+    
+button {
+    margin: 1px;
+}
+#first-row > button {
+    padding: 15px 20px;
+    font-size: large;
+}
+
+#second-row > button {
+    padding: 15px 20px;
+    font-size: large;
+}
+
+#third-row > button {
+    padding: 15px 20px;
+    font-size: large;
+}
+
+#third-row > .operator-btn {
+    padding: 15px 22px;
+    font-size: large;
+}
+
+#fourth-row > button {
+    padding: 15px 20px;
+    font-size: large;
+}
+
+#fourth-row > #dot-btn {
+    padding: 15px 23px;
+    font-size: large;
+}
+
+#eql-btn {
+    background-color: orange;
+}
